@@ -1,4 +1,4 @@
 # myFirstGitRepo
 My first git repository
 <br>
-Author - Aditya Kumar
+Author - Aditya Kumar (Software)
